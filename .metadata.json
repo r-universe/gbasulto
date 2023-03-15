@@ -1,6 +1,14 @@
 [
   {
+    "package": "empichar",
+    "oncran": true
+  },
+  {
     "package": "fourierin",
+    "oncran": true
+  },
+  {
+    "package": "glancedata",
     "oncran": true
   }
 ]
