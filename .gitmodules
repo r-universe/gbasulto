@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "empichar"]
 	path = empichar
 	url = https://github.com/gbasulto/empichar
-	shallow = true
-	registered = true
 [submodule "fourierin"]
 	path = fourierin
 	url = https://github.com/gbasulto/fourierin
-	shallow = true
-	registered = true
 [submodule "glancedata"]
 	path = glancedata
 	url = https://github.com/gbasulto/glancedata
-	shallow = true
-	registered = true
