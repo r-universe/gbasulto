@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cureplots"]
+	path = cureplots
+	url = https://github.com/gbasulto/cureplots
 [submodule "empichar"]
 	path = empichar
 	url = https://github.com/gbasulto/empichar
